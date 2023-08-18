@@ -1,0 +1,41 @@
+body{
+    background-color:white
+}
+
+a{
+    color: white;
+}
+
+.inicio{
+    background-color: white;
+}
+
+h1{
+    width: 100%;
+    background-color: rgb(50, 73, 205);
+    color: white;
+}
+
+.inicio h1{
+    width: 100%;
+    background-color: rgb(50, 73, 205);
+    color: white;
+}
+
+ul li a{
+    color: rgb(1, 3, 5);
+    text-decoration: none;
+    transition: 1s;
+}
+
+ul li a:hover{
+    text-decoration: underline;
+    color: rgb(10, 141, 248);
+
+}
+
+/* body{
+
+    background-image: url(/jovem-bonito-usando-seu-laptop-contra-um-fundo-azul.jpg);
+    object-fit: cover;
+} */
